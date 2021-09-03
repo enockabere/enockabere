@@ -8,13 +8,13 @@ A full stack web developer with a variety of coding niches, from databases to UI
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+<a href="https://github.com/enockabere/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=enockabere" />
 </a>
 
 <a href="https://github.com/enockabere/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&langs_count=8" />
 </a>
 
-![footer](static/img/readme2.png)
+![footer](static/img/readme/2.png)
 
