@@ -1,13 +1,11 @@
 ### Hi there 👋
 ### Github Stats
-<img align="center" ![Enock's GitHub stats](https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical) />
+![Enock's GitHub stats](https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact)](https://github.com/enockabere/github-readme-stats)
 
-<a href="https://github.com/enockabere/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enockabere&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/enockabere/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
