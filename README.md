@@ -5,15 +5,11 @@ A full stack web developer with a variety of coding niches, from databases to UI
 
 ### Github Stats
 <a href="https://github.com/enockabere/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical" width="400" height ="150" />
 </a>
 
 <a href="https://github.com/enockabere/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact" />
-</a>
-
-<a href="https://github.com/enockabere/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enockabere&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact" width="400" height ="150"/>
 </a>
 
 ![footer](static/img/readme/2.png)
