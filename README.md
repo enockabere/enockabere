@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Github Stats
+![Enock's GitHub stats](https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enockabere&repo=github-readme-stats)](https://github.com/enockabere/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **enockabere/enockabere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
