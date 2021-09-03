@@ -12,5 +12,4 @@ A full stack web developer with a variety of coding niches, from databases to UI
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact" width="400" height ="150"/>
 </a>
 
-![footer](static/img/readme/2.png)
-
+<img align="center" src="static/img/readme/2.png" height ="100" />
