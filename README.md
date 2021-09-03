@@ -1,11 +1,7 @@
 ### Hi there 👋
 ### Github Stats
-
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical" /> -->
-
 <a href="https://github.com/enockabere/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enockabere&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/enockabere/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact" />
