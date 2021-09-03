@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact)](https://github.com/enockabere/github-readme-stats)
 
 
-<a href="https://github.com/enockabere">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/enockabere/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&layout=compact" />
 </a>
 
 ****
