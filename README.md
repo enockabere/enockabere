@@ -9,10 +9,6 @@ A full stack web developer with a variety of coding niches, from databases to UI
 </a>
 
 <a href="https://github.com/enockabere/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=enockabere" />
-</a>
-
-<a href="https://github.com/enockabere/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enockabere&langs_count=8" />
 </a>
 
