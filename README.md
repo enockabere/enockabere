@@ -17,4 +17,4 @@ A full stack web developer with a variety of coding niches, from databases to UI
   Think how a lot of companies are trying to migrate and/or build their services on the cloud, to be accessed by their users with just a session in their web browsers from their homes or even using their cellphones. That involves a lot of work from a variety of areas, from Interface Design, Database Design, Back-End Development, Front-End Development, Mobile Development and more. You have so many choices to keep learning, expand your skill set and make some good earnings while building things that will be in line for innovation. Now, that’s interesting!
 
 
-<img src="static/img/readme/2.png" width="100%" height ="100" />
+<img src="static/img/readme/2.png" width="100%" height ="184" />
